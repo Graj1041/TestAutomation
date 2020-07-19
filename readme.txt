@@ -1,3 +1,6 @@
+Question 1:(Valid Plaindrome Check)
+Solution : ValidPalindrome.py
+Description :
 for given input w,x,y,z from user, we can check for a word having an even length or odd length w.r.t these three values x,y,z.
 
 Forming word of an even length
@@ -42,3 +45,7 @@ Test data
 
     Input is not valid to create a Palindrome
 
+-------------------------------------------------------------------
+Question 2 : Automation Framework for an online shopping
+
+Project : TestAutomation/AutomationFramework
